@@ -14,13 +14,13 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Gatsby Starter for Portfolio Minimal" />
-      <Page useSplashScreenAnimation>
-        <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+      <Page>
+        <HeroSection sectionId="hero"/>
+        <ArticlesSection sectionId="blog" heading="TIL" sources={['Blog']} />
+        <AboutSection sectionId="about" heading="Getting Started" />
+        {/* <InterestsSection sectionId="details" heading="Details" /> */}
+        <ProjectsSection sectionId="apps" heading="Apps" />
+        <ContactSection sectionId="contact" heading="Contact" />
       </Page>
     </>
   );
