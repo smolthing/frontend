@@ -1,1 +1,1 @@
-{"data":{"allArticle":{"articles":[{"categories":["Istio"],"date":"2023-09-22 00:00:00","slug":"/my-first-article/","title":"Istio Rate Limit.","readingTime":{"text":"3 min read"}}]}}}
+{"data":{"allArticle":{"articles":[{"categories":["Istio"],"date":"2023-09-22 00:00:00","slug":"/istio-ratelimit/","title":"Istio Rate Limit.","readingTime":{"text":"2 min read"}},{"categories":["Leetcode"],"date":"2023-09-24 00:00:00","slug":"/contains-duplicate-217/","title":"Contains Duplicate","readingTime":{"text":"1 min read"}}]}}}
