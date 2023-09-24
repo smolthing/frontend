@@ -11,8 +11,6 @@ categories:
 keywords:
   - "Rate limit"
   - "Istio"
-  - "gRPC"
-  - "Http"
 ---
 
 ### Envoy Proxy in Istio
@@ -23,9 +21,9 @@ You can use envoy to rate limit an Istio service. There are 2 types of rate limi
 
 ### Local Rate Limiting
 
-#### All paths
+#### All paths - including gRPC/HTTP
 
-Apply a rate limit of 10 requests/minutes to **all paths** (not individual paths) by applying envoy filter to the your service named your-service:
+Apply a rate limit of 10 requests/minute to **all paths** (not individual paths) by applying the envoy filter to the your-service:
 ```
 $ kubectl apply -f - <<EOF
 apiVersion: networking.istio.io/v1alpha3
@@ -81,16 +79,16 @@ your-service-ratelimit
 
 Call your service > 10 times in a minute using curl:
 ```
-curl http://localhost/service/path1
-curl http://localhost/service/path1
+$ curl http://localhost/service/path1
+$ curl http://localhost/service/path1
 ..
-curl http://localhost/service/path10
-curl http://localhost/service/path11
+$ curl http://localhost/service/path10
+$ curl http://localhost/service/path11
 ```
 
 11th response will return 429 error:
 ```
-local_rate_limit with 429 code in header
+local_rate_limit with 429 code in the header
 ```
 
 
@@ -109,3 +107,5 @@ local_rate_limit with 429 code in header
           fill_interval: 1s
     ...
 ```
+
+You can also use [action and descriptor](https://learncloudnative.com/blog/2023-07-23-global-rate-limiter) to rate limit by headers and paths.
