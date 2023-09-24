@@ -4,7 +4,7 @@ import {
   ArticlesSection,
   ContactSection,
   HeroSection,
-  InterestsSection,
+  // InterestsSection,
   Page,
   ProjectsSection,
   Seo,
@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="Portfolio" />
       <Page>
         <HeroSection sectionId="hero"/>
         <ArticlesSection sectionId="blog" heading="TIL" sources={['Blog']} />
