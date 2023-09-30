@@ -1,15 +1,19 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/bashi.jpeg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
+Run some of my top commands:
 
-Run the following command:
 ```
-./gradlew installDis installDat
+gatsby develop
+./gradlew installDist
+./gradlew run
+kubectl config get-contexts
+yarn test
+npm install
+nvm list
+caddy start
 ```
 
-If you're lazy, you can walk too. I write all the things frontend and backend,
-pouring my TIL into this website. This is a place where I experiement and play.
-So go ahead, click around, and you might stumble upon delightful surprises hidden
-in every corner. 🚀
+I like Java, Vert.x, Kafka, MySQL, Kubernetes, Redis, Istio, Github, CICD, Spinnaker, Python and React. I used to like JavaScript and TypeScript. I definitely don't like to write test. 🚀

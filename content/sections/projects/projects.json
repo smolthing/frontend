@@ -2,47 +2,47 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Filling the space with words",
-      "description": "Because I'm so impressed by the Gatsby Starter Portfolio Minimal Theme template, built by Konstantin Münster. I will replace the words soon. But damn, brilliant work.",
-      "tags": ["Wow", "Wow Wow", "Wow Wow Wow"],
+      "category": "🕹️ What",
+      "title": "A Curious game",
+      "description": "Work in progress.",
+      "tags": ["Game", "Web application"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/what.jpg",
+        "alt": "blackbox game",
+        "linkTo": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/smolthing"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/smolthing"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "I can't override the global style, other than that, this is a work of aaart.",
-      "tags": ["Just", "admiring", "this", "piece", "of", "art"],
+      "category": "🧰 btfu",
+      "title": "A Skincare app",
+      "description": "Understand your skin. The app allows users to track what they eat, when they have breakouts,and give recommendation for good skincare products",
+      "tags": ["Skincare", "Web application"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/btfu.jpg",
+        "alt": "skincare app"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/smolthing"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Find me on Youtube",
+    "label": "<( ' )",
     "url": "https://youtube.com"
   }
 }

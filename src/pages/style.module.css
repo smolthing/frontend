@@ -1,0 +1,9 @@
+.mainSection {
+  position: relative;
+  margin: 0 auto 8rem auto;
+  max-width: var(--page-width);
+}
+
+a:focus {
+  outline-style: double;
+}

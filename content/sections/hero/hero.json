@@ -5,16 +5,16 @@
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/smolthing.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "This is a place where",
+  "title": "I code and draw",
   "subtitle": {
-    "prefix": "I dump ",
-    "highlight": "eveything",
+    "prefix": "everything ",
+    "highlight": "here",
     "suffix": "."
   },
-  "description": "An everything website.",
+  "description": "Click around for surprise.",
   "socialProfiles": {
     "from": ["Youtube"],
     "showIcons": false

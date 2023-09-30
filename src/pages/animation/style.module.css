@@ -1,0 +1,37 @@
+.box {
+  position: absolute;
+  right: 0%;
+  height: 50vh;
+  animation-name: fadeUp;
+  animation-timing-function: ease-out;
+  animation-duration: 400ms;
+  animation-delay: 600ms;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+}
+
+.videoBox {
+  height: 100%;
+}
+
+@media (max-width: 1020px) {
+  .box {
+    position: relative;
+    width: 100%;
+  }
+
+  .videoBox {
+    width: 100%;
+  }
+}
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
