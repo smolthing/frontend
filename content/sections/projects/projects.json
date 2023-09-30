@@ -4,11 +4,11 @@
       "visible": true,
       "category": "🕹️ What",
       "title": "A Curious game",
-      "description": "Work in progress.",
+      "description": "A unique puzzle game that challenges players to think outside the box.",
       "tags": ["Game", "Web application"],
       "image": {
         "src": "../../images/what.jpg",
-        "alt": "blackbox game",
+        "alt": "a curious game",
         "linkTo": ""
       },
       "links": [
@@ -26,11 +26,11 @@
       "visible": true,
       "category": "🧰 btfu",
       "title": "A Skincare app",
-      "description": "Understand your skin. The app allows users to track what they eat, when they have breakouts,and give recommendation for good skincare products",
+      "description": "Understand your skin. The app allows users to track what they eat, when they have breakouts, and give personalized skincare recommendations.",
       "tags": ["Skincare", "Web application"],
       "image": {
         "src": "../../images/btfu.jpg",
-        "alt": "skincare app"
+        "alt": "a skincare app"
       },
       "links": [
         {
