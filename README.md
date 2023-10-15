@@ -1,8 +1,8 @@
 # [Smolthing.github.io](https://smolthing.github.io/frontend/)
 
 ```
-   ,_
+   /_
   >' )
-  ( ( \ 
+  ( ( \
    ''|
 ```
