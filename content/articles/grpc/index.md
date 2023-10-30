@@ -145,7 +145,8 @@ grpcurl -plaintext -d '{"type": PIGEON}' -import-path ./proto -proto birb.proto 
 
 ## 🗝️
 
-1. Invalid fields will be thrown errors due to validation in Protocol Buffers.
+0. gRPC uses Protocol Buffers(Protobuf) to define the contract between services. All the servicse have to import the protobuf to implement or use the gRPC endpoint.
+1. Invalid fields will be thrown errors due to validation in Protobuf.
 2. `import com.google.protobuf.gradle.id` to use the protobuf extension.
 3. `implementation("javax.annotation:javax.annotation-api:1.3.2")` is required for protobuf.
 4. `./gradlew generateProto` to build the protobuf separately.
