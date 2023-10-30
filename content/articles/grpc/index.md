@@ -145,8 +145,8 @@ grpcurl -plaintext -d '{"type": PIGEON}' -import-path ./proto -proto birb.proto 
 
 ## 🗝️
 
-1. Invalid fields will be thrown errors due to validation in Protocol Buffers
-2. `import com.google.protobuf.gradle.id` to use the protobuf extension
-3. `implementation("javax.annotation:javax.annotation-api:1.3.2")` is required for protobuf
-4. `./gradlew generateProto` to build the protobuf separately
+1. Invalid fields will be thrown errors due to validation in Protocol Buffers.
+2. `import com.google.protobuf.gradle.id` to use the protobuf extension.
+3. `implementation("javax.annotation:javax.annotation-api:1.3.2")` is required for protobuf.
+4. `./gradlew generateProto` to build the protobuf separately.
 5. Use Postman, insomia, bloomRPC to call gRPC endpoints. You will need to import the proto file.
