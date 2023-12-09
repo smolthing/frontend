@@ -23,7 +23,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Youtube",
-        "url": "https://youtube.com"
+        "url": "https://www.youtube.com/@smolthing"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
