@@ -3,17 +3,13 @@ imageSrc: "../../images/bashi.jpeg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Run some of my top commands:
+Run my fave commands:
 
 ```
-gatsby develop
-./gradlew installDist
-./gradlew run
-kubectl config get-contexts
-yarn test
-npm install
-nvm list
-caddy start
+git status
+git add .
+git commit -m "ah here we go again"
+git push
 ```
 
-I like Java, Vert.x, Kafka, MySQL, Kubernetes, Redis, Istio, Github, CICD, Spinnaker, Python and React. I used to like JavaScript and TypeScript. I definitely don't like to write test. 🚀
+I like Java, Vert.x, Kafka, MySQL, Kubernetes, Redis, Istio, Git, Github, CICD, Spinnaker, Golang locust, Datadog, Jira, Scrum, Python (leetcode). Writing tests sucks my soul. I used to like JavaScript and React. I'm pretty good at foosball and not so bad at pingpong. Fight me. 🥊
