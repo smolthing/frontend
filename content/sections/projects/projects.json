@@ -2,23 +2,23 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ What",
-      "title": "A Curious game",
-      "description": "A unique puzzle game that challenges players to think outside the box.",
-      "tags": ["Game", "Web application"],
+      "category": "🕹️ gRPC API",
+      "title": "Birb Service ( ')>",
+      "description": "A gRPC service built with Vert.x, designed to get birb information. Deployed on fly.io.",
+      "tags": ["Java application", "Vert.x", "gRPC"],
       "image": {
-        "src": "../../images/what.jpg",
-        "alt": "a curious game",
+        "src": "../../images/birbservice.jpeg",
+        "alt": "a cute birb poster",
         "linkTo": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/smolthing"
+          "url": "https://github.com/smolthing/birb-service"
         },
         {
           "type": "external",
-          "url": "https://github.com/smolthing"
+          "url": "https://birb-service.fly.dev"
         }
       ]
     },
