@@ -73,6 +73,10 @@ Up to 3 shared-cpu-1x 256mb VMs
 Seems too good to be true, hopefully I don't have to pay anything to showcase my birb.( ' >')
 
 
+[Update:9/12/23 after a few hours]
+`Deploy a Dockerfile` option is not free. Chargable item: 10259 GB/s × VM: Additional RAM (at $0.00000193 / month): $0.02. #nothingisfreeintheworld
+
+
 ### Fly Scaling
 Woah, this is like hpa scaling but better.
 ```js

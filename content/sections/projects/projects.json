@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🕹️ gRPC API",
       "title": "Birb Service ( ')>",
-      "description": "A gRPC service built with Vert.x, designed to get birb information. Deployed on fly.io.",
+      "description": "A gRPC service built with Vert.x, designed to get birb information. Deployed on fly.io. Currently suspended because it's charging me for ram.",
       "tags": ["Java application", "Vert.x", "gRPC"],
       "image": {
         "src": "../../images/birbservice.jpeg",
