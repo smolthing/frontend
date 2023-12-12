@@ -1,29 +1,7 @@
 {
   "projects": [
     {
-      "visible": true,
-      "category": "🕹️ gRPC API",
-      "title": "Birb Service ( ')>",
-      "description": "A gRPC service built with Vert.x, designed to get birb information. Deployed on fly.io. Currently suspended because it's charging me for ram.",
-      "tags": ["Java application", "Vert.x", "gRPC"],
-      "image": {
-        "src": "../../images/birbservice.jpeg",
-        "alt": "a cute birb poster",
-        "linkTo": ""
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/smolthing/birb-service"
-        },
-        {
-          "type": "external",
-          "url": "https://birb-service.fly.dev"
-        }
-      ]
-    },
-    {
-      "visible": true,
+      "visible": false,
       "category": "🧰 btfu",
       "title": "A Skincare app",
       "description": "Understand your skin. The app allows users to track what they eat, when they have breakouts, and give personalized skincare recommendations.",
@@ -36,6 +14,45 @@
         {
           "type": "github",
           "url": "https://github.com/smolthing"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ gRPC API",
+      "title": "Birb Service ( ')>",
+      "description": "A gRPC service built with Vert.x, designed to get birb information. Deployed on fly.io. Currently suspended because it's charging me for ram. Btw, I created the poster using AI bing.com/create. (wink, I'm trendy)",
+      "tags": ["gRPC", "Vert.x", "Java"],
+      "image": {
+        "src": "../../images/birbservice.jpeg",
+        "alt": "a cute birb poster",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/smolthing/birb-service"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=VHolH_xN9zo&ab_channel=smolthing"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 backend",
+      "title": "Backend",
+      "description": "Playing around with HTTP, gRPC, MySQL using Vert.x. and Docker. A WIP project.",
+      "tags": ["HTTP", "gRPC", "MySQL", "Vert.x", "Java"],
+      "image": {
+        "src": "../../images/btfu.jpg",
+        "alt": "a backend service"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/smolthing/backend"
         }
       ]
     }

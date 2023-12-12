@@ -4,4 +4,4 @@ sectionId: about
 
 #### 
 
-I used to like JavaScript. Now I like Java. 🖐️🎤 
+I like to use Java for building application and Python for leetcode. 🖐️🎤 
