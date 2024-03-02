@@ -1,19 +1,19 @@
 {
   "projects": [
     {
-      "visible": false,
-      "category": "🧰 btfu",
-      "title": "A Skincare app",
-      "description": "Understand your skin. The app allows users to track what they eat, when they have breakouts, and give personalized skincare recommendations.",
-      "tags": ["Skincare", "Web application"],
+      "visible": true,
+      "category": "🧴 Skincare",
+      "title": "Smol - A Skincare mobile app",
+      "description": "Your all-in-one skincare app to track acne, monitor reactions to skincare and food, and compare progress with others for clearer, healthier skin.",
+      "tags": ["React native", "Expo", "Firebase"],
       "image": {
-        "src": "../../images/btfu.jpg",
+        "src": "../../images/smol-skincare.png",
         "alt": "a skincare app"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/smolthing"
+          "url": "https://github.com/smolthing/smol-frontend"
         }
       ]
     },
