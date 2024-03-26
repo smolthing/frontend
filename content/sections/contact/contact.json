@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "A round woof a paw for you.",
   "email": "",
-  "description": "If you have any issues with me, create a problem in Github.",
+  "description": "",
   "image": {
-    "src": "",
-    "alt": ""
+    "src": "../../images/roundwoofapaw.png",
+    "alt": "a dog clapping"
   }
 }

@@ -1,25 +1,11 @@
 ---
-title: "Design Patterns (WIP)"
+title: "Design Patterns"
 description: "A list of design patterns"
-date: "2023-10-01"
+date: "2024-03-04"
 categories:
   - "design pattern"
 keywords:
   - "design pattern"
 ---
 
-Singleton
-
-Factory
-
-Builder
-
-Adapter
-
-Composite
-
-Proxy
-
-Observer
-
-
+https://github.com/smolthing/design-pattern

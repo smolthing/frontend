@@ -59,7 +59,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "<( ' )",
+    "label": "| ' >",
     "url": "https://www.youtube.com/@smolthing"
   }
 }

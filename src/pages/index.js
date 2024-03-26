@@ -12,11 +12,6 @@ import {
 import AnimationSection from "./animation/animationSection";
 import * as classes from "./style.module.css";
 
-const mainSectionStyle = {
-  position: "relative",
-  border: "1px solid black",
-};
-
 export default function IndexPage() {
   const mainSection = (
     <div className={classes.mainSection}>
@@ -33,10 +28,11 @@ export default function IndexPage() {
       <Page>
         {mainSection}
         <ArticlesSection sectionId="blog" heading="TIL" sources={["Blog"]} />
-        <AboutSection sectionId="about" heading="Getting Started" />
+        <AboutSection sectionId="about" heading="Getting Started (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧" />
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
         <ProjectsSection sectionId="apps" heading="Apps" />
-        <ContactSection sectionId="contact" heading="Contact" />
+        <AboutSection sectionId="about" heading="Getting Started (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧" />
+        <ContactSection sectionId="illustration" heading="Thank you for visiting, see you again." />
       </Page>
     </>
   );

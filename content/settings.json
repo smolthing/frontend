@@ -18,11 +18,11 @@
       "header": [
         { "label": "Blog", "url": "/blog" },
         { "label": "Apps", "url": "/#apps" },
-        { "label": "Contact", "url": "/#contact" }
+        { "label": "Illustration", "url": "/#illustraion" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Youtube",
+        "label": "| '  >",
         "url": "https://www.youtube.com/@smolthing"
       },
       "footer": [

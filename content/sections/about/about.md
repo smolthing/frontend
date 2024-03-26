@@ -3,8 +3,16 @@ imageSrc: "../../images/bashi.jpeg"
 imageAlt: "A happy shiba on a cosm chair."
 ---
 
+### Buy <s>me a coffee</s> my design
+
+- [Esty](https://smolthingstudio.etsy.com)
+
+- [TeePublic](https://www.teepublic.com/user/smolthing)
+
+- [Redbubble](https://www.redbubble.com/people/mysmolthing/explore?asc=u)
 
 
-I used to like JavaScript and React. Now I love Java, Vert.x, Kafka, MySQL, Kubernetes, Redis, Istio, Git, Github, CICD, Spinnaker, Datadog, Jira, Scrum, Python (leetcode). Writing tests sucks my soul. I'm pretty good at foosball and not so bad at pingpong.
+### Get my code
 
-Fight me. 🥊
+- [Github](https://github.com/smolthing)
+- [Sandbox](https://codesandbox.io/u/smolthing)

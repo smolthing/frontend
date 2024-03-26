@@ -1,16 +1,16 @@
 {
-  "intro": "Hello",
+  "intro": "",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "",
+    "alt": ""
   },
   "image": {
-    "src": "../../images/smolthing.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I code and draw",
+  "title": "Hello,",
   "subtitle": {
-    "prefix": "everything ",
+    "prefix": "I document everything ",
     "highlight": "here",
     "suffix": "."
   },

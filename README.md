@@ -6,3 +6,9 @@
   ( ( \
    ''|
 ```
+
+
+### Getting Started
+```
+gatsby develop
+```
