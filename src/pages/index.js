@@ -31,7 +31,6 @@ export default function IndexPage() {
         <AboutSection sectionId="about" heading="Getting Started (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧" />
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
         <ProjectsSection sectionId="apps" heading="Apps" />
-        <AboutSection sectionId="about" heading="Getting Started (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧" />
         <ContactSection sectionId="illustration" heading="Thank you for visiting, see you again." />
       </Page>
     </>

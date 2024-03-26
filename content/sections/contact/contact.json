@@ -5,5 +5,9 @@
   "image": {
     "src": "../../images/roundwoofapaw.png",
     "alt": "a dog clapping"
+  },
+  "socialProfiles": {
+    "from": ["Youtube", "buymeacoffee"],
+    "showIcons": true
   }
 }

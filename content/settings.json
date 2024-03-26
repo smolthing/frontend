@@ -9,7 +9,9 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "TIL",
     "social": {
-      "blog": "/"
+      "blog": "/",
+      "youtube": "https://www.youtube.com/@smolthing",
+      "buymeacoffee": "https://www.redbubble.com/people/mysmolthing/explore?asc=u"
     }
   },
   "siteConfiguration": {
@@ -18,7 +20,7 @@
       "header": [
         { "label": "Blog", "url": "/blog" },
         { "label": "Apps", "url": "/#apps" },
-        { "label": "Illustration", "url": "/#illustraion" }
+        { "label": "Illustration", "url": "/#illustration" }
       ],
       "ctaButton": {
         "openNewTab": true,
